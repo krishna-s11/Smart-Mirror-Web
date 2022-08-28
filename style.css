@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 video {
-  display: none;
+  /* display: none; */
 }
 .header {
   width: 100%;
